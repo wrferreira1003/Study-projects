@@ -1,1 +1,3 @@
-# Study-projects-Previsao_valor_aluguel-
+# Study-projects
+
+Repositório para estudos
